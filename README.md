@@ -39,7 +39,7 @@ Ajoutez votre ligne à la fin de cette liste, en respectant le format.
 
 <!-- ===== AJOUTEZ VOTRE NOM CI-DESSOUS ===== -->
 
-- Amira Ben Salah - étudiante
+- Skander Farhat - étudiant
 
 <!-- ===== FIN DES CONTRIBUTEURS ===== -->
 ```
