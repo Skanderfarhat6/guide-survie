@@ -60,5 +60,5 @@ Consultez le [mur des pannes](https://liliasfaxi.github.io/git-tp-dauphine/panne
 
 ## Liens utiles
 
-- [Le site des TP](https://liliasfaxi.github.io/git-tp-dauphine)
+- [Le site des TP](https://Skanderfarhat6.github.io/git-tp-dauphine)
 - [La documentation de Git](https://git-scm.com/doc)
